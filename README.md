@@ -1,6 +1,6 @@
 # bitmex-cli
 
-![Screenshot](comms/screenshot1.png)
+![alt text](comms/screenshot1.png)
 
 A Command-Line Interface App to interact with derivatives broker BitMEX.com
 
